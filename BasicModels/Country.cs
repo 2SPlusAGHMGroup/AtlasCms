@@ -26,15 +26,15 @@ namespace BasicModels
         [MaxLength(100)]
         [Column(TypeName="varchar")]
         public string LatinName { get; set; }
-        public Country Parrent { get; set; }
+        public Country Parent { get; set; }
         [NotMapped]
         public string NotMap { get; set; }
 
-        public Country(int _code, string _name, string _latinName = null, Country _parrent = null)
+        public Country(int _code, string _name, string _latinName = null, Country _parent = null)
         {
             this.Code = _code;
             this.Name = _name;
-            this.Parrent = _parrent;
+            this.Parent = _parent;
             this.LatinName = _latinName;
         }
     }

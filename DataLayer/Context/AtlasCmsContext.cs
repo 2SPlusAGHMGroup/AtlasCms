@@ -18,8 +18,13 @@ namespace DataLayer.Context
         }
         public AtlasCmsContext() {
         }
-
         public DbSet<Country> Countries { get; set; }
+        public DbSet<Article> Articles { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Tag> Tags { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<UserType> UserTypes { get; set; }
+        public DbSet<Attachment> Attachments { get; set; }
 
     }
 }
