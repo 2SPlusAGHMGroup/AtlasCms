@@ -1,0 +1,21 @@
+﻿li, ul, a, b, p, h1, h2, h3, h4, h5, h6, span, button, input[type="text"] {
+    font-family: 'B Yekan',Tahoma;
+}
+
+.rtl {
+    text-align: right;
+    direction: rtl;
+}
+
+.frontSearch {
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+    width:200px !important; 
+}
+
+    .frontSearch:hover {
+        width: 270px !important;
+    }
