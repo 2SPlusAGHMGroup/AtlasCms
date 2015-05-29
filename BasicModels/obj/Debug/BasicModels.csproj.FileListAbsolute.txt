@@ -28,3 +28,13 @@ C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\BasicModels\bin\Debug\EntityFramework.d
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\BasicModels\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\BasicModels\bin\Debug\EntityFramework.xml
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\BasicModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\bin\Debug\BasicModels.dll.config
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\bin\Debug\BasicModels.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\bin\Debug\BasicModels.pdb
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\obj\Debug\BasicModels.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\obj\Debug\BasicModels.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\BasicModels\obj\Debug\BasicModels.pdb

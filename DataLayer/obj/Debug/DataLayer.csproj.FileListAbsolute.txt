@@ -40,3 +40,17 @@ C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\DataLayer\bin\Debug\EntityFramework.Sql
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\DataLayer\obj\Debug\DataLayer.dll
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\BasicModels.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\Models.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\BasicModels.pdb
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\Models.pdb
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\DataLayer\obj\Debug\DataLayer.pdb

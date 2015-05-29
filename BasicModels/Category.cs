@@ -10,6 +10,7 @@ namespace BasicModels
     {
         public Guid Id { get; set; }
         public string Title { get; set; }
-        public Category Parent { get; set; }
+        public virtual Category Parent { get; set; }
+        public virtual ICollection<Article> Articles { get; set; }
     }
 }

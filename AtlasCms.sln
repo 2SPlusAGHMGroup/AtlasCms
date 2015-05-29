@@ -5,8 +5,6 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlasCms", "AtlasCms\AtlasCms.csproj", "{E51793D1-F499-41C1-83FD-3DBBA70D484B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{EB21BC75-E10C-4448-B72D-C49B295144E6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicModels", "BasicModels\BasicModels.csproj", "{6CE27DDC-BDA9-4B5F-AC83-650D82439DC7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{5B6DCD06-1069-4C81-9C8F-210CC69902EA}"
@@ -21,10 +19,6 @@ Global
 		{E51793D1-F499-41C1-83FD-3DBBA70D484B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E51793D1-F499-41C1-83FD-3DBBA70D484B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E51793D1-F499-41C1-83FD-3DBBA70D484B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EB21BC75-E10C-4448-B72D-C49B295144E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB21BC75-E10C-4448-B72D-C49B295144E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB21BC75-E10C-4448-B72D-C49B295144E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB21BC75-E10C-4448-B72D-C49B295144E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6CE27DDC-BDA9-4B5F-AC83-650D82439DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6CE27DDC-BDA9-4B5F-AC83-650D82439DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE27DDC-BDA9-4B5F-AC83-650D82439DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU

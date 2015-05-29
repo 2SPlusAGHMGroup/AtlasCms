@@ -34,3 +34,15 @@ C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\Models\bin\Debug\EntityFramework.SqlSer
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\Models\obj\Debug\Models.dll
 C:\Users\mahmoodi_s\Desktop\Git\AtlasCms\Models\obj\Debug\Models.pdb
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\Models.dll.config
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\Models.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\Models.pdb
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\BasicModels.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\BasicModels.pdb
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\obj\Debug\Models.dll
+C:\Users\admin\Desktop\AtlCmsGit\AtlasCms\Models\obj\Debug\Models.pdb

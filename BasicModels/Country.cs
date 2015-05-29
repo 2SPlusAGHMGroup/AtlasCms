@@ -29,7 +29,7 @@ namespace BasicModels
         public Country Parent { get; set; }
         [NotMapped]
         public string NotMap { get; set; }
-
+        public virtual ICollection<User> Users { get; set; }
         public Country(int _code, string _name, string _latinName = null, Country _parent = null)
         {
             this.Code = _code;

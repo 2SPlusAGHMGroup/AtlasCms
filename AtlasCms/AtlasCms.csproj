@@ -191,10 +191,6 @@
       <Project>{5b6dcd06-1069-4c81-9c8f-210cc69902ea}</Project>
       <Name>DataLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Models\Models.csproj">
-      <Project>{eb21bc75-e10c-4448-b72d-c49b295144e6}</Project>
-      <Name>Models</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -10,5 +10,6 @@ namespace BasicModels
     {
         public Guid Id { get; set; }
         public string Title { get; set; }
+        public virtual ICollection<Article> Articles { get; set; }
     }
 }

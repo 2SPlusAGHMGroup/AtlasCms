@@ -12,13 +12,13 @@ namespace BasicModels
         public string Title { get; set; }
         public string Content { get; set; }
         public DateTime CreateDate { get; set; }
-        public User CreateBy { get; set; }
+        public virtual User CreateBy { get; set; }
         public DateTime PublishDate { get; set; }
         public bool IsDeleted { get; set; }
         public bool IsPublish { get; set; }
-        public List<Attachment> Attachments { get; set; }
-        public Category Category { get; set; }
-        public List<Tag> Tags { get; set; }
+        public virtual ICollection<Attachment> Attachments { get; set; }
+        public virtual ICollection<Category> Category { get; set; }
+        public virtual ICollection<Tag> Tags { get; set; }
 
     }
 }

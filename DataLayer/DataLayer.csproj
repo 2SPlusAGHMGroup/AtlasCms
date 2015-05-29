@@ -59,10 +59,6 @@
       <Project>{6ce27ddc-bda9-4b5f-ac83-650d82439dc7}</Project>
       <Name>BasicModels</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Models\Models.csproj">
-      <Project>{eb21bc75-e10c-4448-b72d-c49b295144e6}</Project>
-      <Name>Models</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
